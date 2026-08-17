@@ -42,8 +42,9 @@ Analyze transaction data to identify sales trends, top-performing products, paym
 
 ### Dashboard Preview
 
-<img width="1919" height="709" alt="image" src="https://github.com/user-attachments/assets/356b6514-7f7d-43a3-ad40-c3f3d50fd966" />
-<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/57993c8e-270c-4b49-b62e-4c37ffe48a5c" />
+<img width="1919" height="709" alt="Screenshot 2026-08-17 173912" src="https://github.com/user-attachments/assets/6d95514d-e858-4943-804c-dfbf1300cc4a" />
+<img width="1919" height="989" alt="Screenshot 2026-08-17 174239" src="https://github.com/user-attachments/assets/3981b6e5-5fb3-485d-8445-90aeee7e3479" />
+
 
 
 
@@ -72,8 +73,9 @@ Analyze environmental emission data across the United States to identify emissio
 
 ### Dashboard Preview
 
-<img width="1919" height="661" alt="image" src="https://github.com/user-attachments/assets/f2855467-0009-4876-8ce2-520619e9cc37" />
-<img width="1919" height="461" alt="image" src="https://github.com/user-attachments/assets/ae629644-0c64-4f59-9855-57f5aba5590f" />
+<img width="1919" height="661" alt="Screenshot 2026-08-17 174359" src="https://github.com/user-attachments/assets/4393622c-ce06-42a2-83ed-618595b1a360" />
+<img width="1919" height="461" alt="Screenshot 2026-08-17 174439" src="https://github.com/user-attachments/assets/40b3b8ea-ebe9-4597-8a57-97d42ee2f2ce" />
+
 
 
 
