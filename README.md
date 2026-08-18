@@ -124,4 +124,3 @@ Aspiring Data Analyst | SQL | Excel | Power BI | Tableau | Python
 
 GitHub: https://github.com/ascodess
 LinkedIn: https://linkedin.com/in/aadhya-sharma-contactaadhya
-v
